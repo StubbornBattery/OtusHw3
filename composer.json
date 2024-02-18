@@ -19,6 +19,6 @@
     },
     "require": {
         "php": "~7.4.0",
-        "StubbornBattery/OtusHw3":"^1.0"
+        "stubbornbattery/otushw3":"^1.0"
     }
 }
