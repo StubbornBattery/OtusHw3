@@ -13,7 +13,13 @@
             "email": "stubbornbattery@gmail.com"
         }
     ],
+    "repositories": {
+        "url": "https://github.com/StubbornBattery/OtusHw3.git",
+        "type": "git",
+        "name": "StubbornBattery/OtusHw3"
+    },
     "require": {
-        "php": "~7.4.0"
+        "php": "~7.4.0",
+        "StubbornBattery/OtusHw3":"^1.0"
     }
 }
