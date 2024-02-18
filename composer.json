@@ -15,7 +15,7 @@
     ],
     "repositories": {
         "url": "https://github.com/StubbornBattery/OtusHw3.git",
-        "name": "StubbornBattery/OtusHw3"
+        "name": "stubbornbattery/otushw3"
     },
     "require": {
         "php": "~7.4.0",
