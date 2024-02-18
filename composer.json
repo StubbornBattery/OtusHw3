@@ -1,7 +1,6 @@
 {
     "name": "stubb/otus-library",
     "type": "library",
-    "version": "1.2",
     "autoload": {
         "psr-4": {
             "Stubb\\OtusLibrary\\": "src/"
