@@ -15,7 +15,6 @@
     ],
     "repositories": {
         "url": "https://github.com/StubbornBattery/OtusHw3.git",
-        "type": "git",
         "name": "StubbornBattery/OtusHw3"
     },
     "require": {
