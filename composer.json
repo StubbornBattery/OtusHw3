@@ -9,10 +9,10 @@
     "authors": [
         {
             "name": "Nikita Trubkin",
-            "email": "stubbornbattery@gmail.com"
+            "email": "Stubbornbattery@gmail.com"
         }
     ],
     "require": {
-        "php": "~7.4.0"
+        "php": ">=7.4.0"
     }
 }
